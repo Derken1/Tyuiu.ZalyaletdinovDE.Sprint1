@@ -13,8 +13,8 @@ namespace Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27
             Console.WriteLine("********************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                                *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                                         *");
-            Console.WriteLine("* Задание #0                                                                               *");
-            Console.WriteLine("* Вариант #4                                                                               *");
+            Console.WriteLine("* Задание #1                                                                               *");
+            Console.WriteLine("* Вариант #27                                                                              *");
             Console.WriteLine("* Выполнил: Залялетдинов Данил Эдуардович | РППб-26-1                                      *");
             Console.WriteLine("********************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                 *");
