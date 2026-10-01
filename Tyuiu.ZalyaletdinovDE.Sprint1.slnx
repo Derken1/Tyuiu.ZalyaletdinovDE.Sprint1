@@ -4,4 +4,12 @@
     <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task0.V4.Test/Tyuiu.ZalyaletdinovDE.Sprint1.Task0.V4.Test.csproj" />
     <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task0.V4/Tyuiu.ZalyaletdinovDE.Sprint1.Task0.V4.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V0.Lib/Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V0.Lib.csproj" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V0.Test/Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V0.Test.csproj" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V0/Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V0.csproj" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27.Lib/Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27.Lib.csproj" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27.Test/Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27.Test.csproj" Id="066459e8-104b-4d4b-9b8d-19f666667dbb" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27/Tyuiu.ZalyaletdinovDE.Sprint1.Task1.V27.csproj" Id="bf02c79f-2265-4e68-808b-f299db02e901" />
+  </Folder>
 </Solution>
