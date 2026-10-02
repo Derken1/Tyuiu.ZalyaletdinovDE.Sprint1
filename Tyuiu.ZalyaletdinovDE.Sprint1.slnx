@@ -52,4 +52,12 @@
     <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task6.V11.Test/Tyuiu.ZalyaletdinovDE.Sprint1.Task6.V11.Test.csproj" Id="6ad3036d-1834-4cd2-8518-b837a1ac70f4" />
     <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task6.V11/Tyuiu.ZalyaletdinovDE.Sprint1.Task6.V11.csproj" Id="3a0df3b8-3ab3-4b60-b3c4-99d186b48905" />
   </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V0.Lib/Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V0.Lib.csproj" Id="aa9cd242-4a5b-4663-ad5e-62cca1828b59" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V0.Test/Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V0.Test.csproj" Id="7c201133-8fd4-48f0-9fe2-628215abf88c" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V0/Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V0.csproj" Id="a49bc35a-e6ec-4d28-b5b8-1695530d0d23" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V18.Lib/Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V18.Lib.csproj" Id="8195dcc1-5eaf-4d91-82f2-ed0f7452b9d4" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V18.Test/Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V18.Test.csproj" Id="2f5a733b-e37f-46f6-8535-f55479574af0" />
+    <Project Path="Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V18/Tyuiu.ZalyaletdinovDE.Sprint1.Task7.V18.csproj" Id="44960938-8475-45c7-abab-e3841c7a5ba1" />
+  </Folder>
 </Solution>
